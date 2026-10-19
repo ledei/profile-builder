@@ -1,0 +1,50 @@
+{
+  "name": "Foo Baz",
+  "first_name": "Foo",
+  "handle": "foo",
+  "role": "Lorem ipsum engineer",
+  "home": "Foo City, Bazland",
+  "languages": "Lorem, Ipsum, Dolor",
+  "intro": "Hi! I'm Foo, a lorem ipsum engineer{at_job}. Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+  "portrait": "example/portrait.png",
+  "pixelate": 64,
+
+  "job": {
+    "company": "Baz Corp",
+    "url": "https://example.com",
+    "since": "2025",
+    "period": "Jan 2025 – now",
+    "title": "Lorem ipsum engineer",
+    "text": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    ]
+  },
+
+  "stack": {
+    "frontend": ["Foo", "Bar", "Baz"],
+    "backend": ["Lorem", "Ipsum", "Dolor"],
+    "data": ["Sit", "Amet", "Elit"],
+    "design": ["Qux", "Quux"]
+  },
+
+  "quest_log": [
+    { "when": "Jan 2025 – now", "where": "Baz Corp", "what": "Lorem ipsum engineer · in progress", "url": "https://example.com", "current": true },
+    { "when": "Mar 2024 – Dec 2024", "where": "Foo Inc", "what": "Dolor sit amet intern" },
+    { "when": "Jun 2023 – Feb 2024", "where": "Bar & Co", "what": "Consectetur developer" },
+    { "when": "Aug 2021 – May 2023", "where": "Qux School", "what": "Lorem studies · where it all began", "tag": "New game" }
+  ],
+
+  "links": {
+    "email": "foo@example.com",
+    "linkedin": "https://www.linkedin.com/in/foo-baz",
+    "github": "foo-baz"
+  },
+
+  "texts": {
+    "player": "Player 1 has entered",
+    "talk_title": "Let's talk",
+    "talk_text": "Lorem ipsum dolor sit amet? My inbox is open.",
+    "footer": "Thanks for visiting · Game saved"
+  }
+}
